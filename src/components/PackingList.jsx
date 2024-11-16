@@ -43,6 +43,10 @@ const TaskContainer = styled.div`
     justify-content: center;
     align-items: center;
     text-align: center;
+
+    svg {
+      font-size: 2rem;
+    }
   }
 
   &::-webkit-scrollbar {
